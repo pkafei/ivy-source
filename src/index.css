@@ -6,6 +6,15 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  /* background-image: url('https://res.cloudinary.com/blockchain-side-hustle/image/upload/v1535886843/blockchain_explainer_dapps_psxv1n.jpg'); */
+  background-color: black;
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+  top: 0;
+  bottom: 0;
+  height: 100vh;
+  z-index: -10;
 }
 
 code {

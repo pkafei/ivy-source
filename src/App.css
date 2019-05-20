@@ -1,5 +1,13 @@
 .App {
   text-align: center;
+  position: absolute;
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+}
+
+.App-body {
+  background-image: url('https://res.cloudinary.com/blockchain-side-hustle/image/upload/v1557130302/desk-picture_nivjsz.jpg');
 }
 
 .App-logo {
@@ -21,6 +29,17 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.Nav {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 15px;
+  color: #fff;
+}
+
+.nav-icon {
+  background-color: #fff;
+  color: black;
 }
 
 @keyframes App-logo-spin {
