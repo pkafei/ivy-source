@@ -6,10 +6,12 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  /* background-image: url('https://res.cloudinary.com/blockchain-side-hustle/image/upload/v1535886843/blockchain_explainer_dapps_psxv1n.jpg'); */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url('https://res.cloudinary.com/blockchain-side-hustle/image/upload/v1558813957/desk_deglkt.jpg');
   background-color: black;
   background-size: cover;
+  background-repeat: no-repeat;
   background-position: center center;
+  background-attachment: fixed;
   position: relative;
   top: 0;
   bottom: 0;

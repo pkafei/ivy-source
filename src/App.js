@@ -25,7 +25,7 @@ function App() {
       <div className="Copy fl tc-l mt4 mt5-m mt6-l ph3 w-30">
         <h1 className="f4 f1-l fw2 white-90 mb0 lh-title">Elite Talent on Demand</h1>
         <h2 className="fw1 f5 white-80 mt3 mb4">Quickly find Ivy league educated temp workers. Right now.</h2>
-        <a className="f6 no-underline grow dib v-mid bg-blue white ba b--blue ph3 pv2 mb3" href="/">Get Started Now</a>
+        <a className="f5 no-underline grow dib v-mid bg-blue br-pill white ba b--blue ph3 pv2 mb3" href="/">Get Started Now</a>
       </div> 
     </div>
   );
